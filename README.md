@@ -1,3 +1,5 @@
+# Trabalho - Raciocínio Probabilístico
+
 # Diagnóstico Bayesiano de Farol de Bicicleta
 
 Este repositório contém uma atividade de Inteligência Artificial que explora o uso de **redes bayesianas** e **programação probabilística com ProbLog** para diagnosticar o funcionamento de um farol de bicicleta alimentado por dínamo.
@@ -24,21 +26,10 @@ Este repositório contém uma atividade de Inteligência Artificial que explora 
 
 ### Usando SWISH (online)
 1. Acesse: [https://dtai.cs.kuleuven.be/problog/editor.html](https://dtai.cs.kuleuven.be/problog/editor.html)
-2. Copie o conteúdo de `codigo.pl` e cole no editor.
-3. Clique em "Run" (foguete).
+2. Copie o conteúdo do arquivi e cole no editor.
+3. Execute a consulta.
 
-### Localmente (Linux)
-```bash
-# Instale em ambiente virtual (recomendado)
-python3 -m venv .venv
-source .venv/bin/activate
-pip install problog
-problog codigo.pl
-```
-
----
 
 ## :books: Referências
 - [Tutorial de ProbLog](https://dtai.cs.kuleuven.be/problog/tutorial/basic/02_bayes.html)
-- Bratko, I. (Prolog Programming for Artificial Intelligence)
-- PEP 668 (gestão de ambientes Python em sistemas Linux)
+- Bratko, I. (Prolog Programming for Artificial Intelligence).
