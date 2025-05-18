@@ -24,7 +24,7 @@ Este repositório contém uma atividade de Inteligência Artificial que explora 
 
 ## :hammer_and_wrench: Como Executar
 
-### Usando SWISH (online)
+### Usando Editor ProbLog (Online)
 1. Acesse: [https://dtai.cs.kuleuven.be/problog/editor.html](https://dtai.cs.kuleuven.be/problog/editor.html)
 2. Copie o conteúdo do arquivi e cole no editor.
 3. Execute a consulta.
