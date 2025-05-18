@@ -17,8 +17,8 @@ Este repositório contém uma atividade de Inteligência Artificial que explora 
 
 ## :page_facing_up: Estrutura dos Arquivos
 
-- [`analise.md`](analise.md): explicação detalhada da questão 1 (itens de **(a)** a **(e)**), com grafo causal, cálculos manuais e justificativas.
-- [`codigo.pl`](codigo.pl): implementação completa da rede bayesiana em **ProbLog**, com query e evidência.
+- [`resolucao-probabilistica.md`](resolucao-probabilistica.md): explicação detalhada da questão 1 (itens de **(a)** a **(e)**), com grafo causal, cálculos manuais e justificativas.
+- [`codigo-questao2.pl`](codigo-questao2.pl): implementação completa da rede bayesiana em **ProbLog**, com query e evidência.
 
 ---
 
