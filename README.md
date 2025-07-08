@@ -1,4 +1,4 @@
-# Trabalho - Raciocínio Probabilístico
+# Trabalho 2 - Raciocínio Probabilístico
 
 # Diagnóstico Bayesiano de Farol de Bicicleta
 
